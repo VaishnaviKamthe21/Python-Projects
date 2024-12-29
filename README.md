@@ -4,11 +4,8 @@ Welcome to the Beginner Python Projects repository! 🎉 This repository is inte
 Features:
 
 🌟 Variety of Projects: Covers a range of topics like games, utilities, and basic algorithms.
-
 🧩 Step-by-Step Instructions: Each project includes detailed explanations and comments in the code.
-
 🏗️ Hands-On Practice: Encourages learning by doing, with plenty of opportunities for experimentation.
-
 🛠️ Well-Structured Code: Easy-to-read and well-organized examples to follow best practices.
 
 

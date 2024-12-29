@@ -13,11 +13,18 @@ Features:
 
 
 Who Is This For?
+
 📘 Beginners: Anyone new to Python or programming in general.
+
 👩‍💻 Students: Those looking to enhance their learning with practical examples.
+
 🧑‍🎓 Self-Learners: People brushing up on Python fundamentals.
 
+
 How to Use:
+
 1] Download this repository or clone it.
+
 2] From the list, select a project.
+
 4] Experiment, tweak, and have fun! 🎉

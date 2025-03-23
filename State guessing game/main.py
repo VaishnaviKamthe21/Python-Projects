@@ -16,6 +16,11 @@ while len(states_list) > 0:
     answer = screen.textinput(title=f"Score: {score}/31", prompt="What's the name of the state?")
     answer=answer.title()
 
+    if answer == "Exit":
+        missing_states = pandas.DataFrame(states_list)
+        missing_states.to_csv("Python-Projects\State guessing game\missing_states.csv")
+        break
+
     if answer in states_list:
         t = turtle.Turtle()
         t.hideturtle()
@@ -27,4 +32,3 @@ while len(states_list) > 0:
         score += 1
     
 
-turtle.mainloop()
